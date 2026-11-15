@@ -255,7 +255,7 @@ if (!filter_var($input['email'], FILTER_VALIDATE_EMAIL)) {
 
 ![Mini Project - Ringkasan setelah data valid](screenshots/mini-project-valid.png)
 
-![Mini Project - Pesan validasi](screenshots/mini-project-invalid.png)
+![Mini Project - Validasi browser saat format NIM tidak sesuai](screenshots/mini-project-invalid.png)
 
 ### Contoh pengujian input
 
@@ -268,4 +268,4 @@ if (!filter_var($input['email'], FILTER_VALIDATE_EMAIL)) {
 
 ## Ringkasan Hasil
 
-Latihan 1-7 memperagakan dasar pemrograman PHP, pemrosesan form, dan pengolahan data sederhana. Mini project menggabungkan form POST, validasi di server, pelaporan beberapa kesalahan, dan penampilan ringkasan dengan escaping output. Screenshot browser akan ditambahkan ke folder `screenshots/` setelah pengambilan gambar.
+Latihan 1-7 memperagakan dasar pemrograman PHP, pemrosesan form, dan pengolahan data sederhana. Mini project menggabungkan form POST, validasi di server, pelaporan beberapa kesalahan, dan penampilan ringkasan dengan escaping output. Screenshot untuk latihan dan mini project tersimpan di folder `screenshots/`.
